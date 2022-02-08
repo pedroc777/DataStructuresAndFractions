@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1599870867 source:c:\users\pedro\documents\archivos multiples\archivos múltiples\main.cpp
+	<iostream>
+	"multiplicacionFraccion.h"
+	"restaFraccion.h"
+	"sumaFraccion.h"
+	"divisionFraccion.h"
+
+1599862253 source:c:\users\pedro\documents\archivos multiples\archivos múltiples\multiplicafraccion.cpp
+	"multiplicacionFraccion.h"
+
+1599862253 c:\users\pedro\documents\archivos multiples\archivos múltiples\multiplicacionfraccion.h
+	"fraccion.h"
+
+1599862028 c:\users\pedro\documents\archivos multiples\archivos múltiples\fraccion.h
+
+1599866718 source:c:\users\pedro\documents\archivos multiples\archivos múltiples\restafraccion.cpp
+	"restaFraccion.h"
+
+1599866444 c:\users\pedro\documents\archivos multiples\archivos múltiples\restafraccion.h
+	"fraccion.h"
+
+1599867407 source:c:\users\pedro\documents\archivos multiples\archivos múltiples\divisionfraccion.cpp
+	"divisionFraccion.h"
+
+1599867400 c:\users\pedro\documents\archivos multiples\archivos múltiples\divisionfraccion.h
+	"fraccion.h"
+
+1599869858 source:c:\users\pedro\documents\archivos multiples\archivos múltiples\sumafraccion.cpp
+	"sumaFraccion.h"
+
+1599868622 c:\users\pedro\documents\archivos multiples\archivos múltiples\sumafraccion.h
+	"fraccion.h"
+
